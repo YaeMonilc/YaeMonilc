@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @YaeMonilc
 - 👀 I’m interested in Java
-- 🌱 I’m currently learning C/C++,Java
+- 🌱 I’m currently learning Java
 - 📫 How to reach me Monilc@outlook.com or TencentQQ:58041107
 
 <!---
