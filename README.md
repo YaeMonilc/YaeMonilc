@@ -14,6 +14,7 @@
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
 ## 🔎 平台 & 技术
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
@@ -37,7 +38,7 @@
 ## 🌐 详情
 
 [![YaeMonilc's GitHub stats](https://github-readme-stats.vercel.app/api?username=YaeMonilc&show_icons=true)](https://github.com/YaeMonilc)
-[![GitHub Streak](https://streak-stats.demolab.com?user=yaemonilc&locale=zh_Hans&hide_longest_streak=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=yaemonilc&locale=zh_Hans&date_format=%5BY.%5Dn.j)](https://github.com/YaeMonilc)
 
 ## 📊 语言统计
 
